@@ -1,1 +1,7 @@
-# RichardRay24.github.io
+# Data Analyst
+
+### Education
+
+### Work Experience
+- PT A
+- PT B
